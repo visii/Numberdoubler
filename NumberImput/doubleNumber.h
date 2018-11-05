@@ -6,6 +6,6 @@ int64_t userNumber();
 int64_t doubleNumber(int64_t x);
 void printStuff1();
 void printStuff();
-
+void error();
 
 #endif

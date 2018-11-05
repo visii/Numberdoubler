@@ -16,3 +16,9 @@ void printStuff1()
 	std::cout << y << " doubled is:" << doubleNumber(y) << std::endl;
 	printStuff();
 }
+
+void error()
+{
+	std::cout << "Please enter a valid number." << std::endl;
+	userNumber();
+}
